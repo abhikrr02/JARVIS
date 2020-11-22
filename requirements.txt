@@ -1,7 +1,1 @@
-gtts
-playsound
-SpeechRecognition
-pipwin
-lxml
-beautifulsoup4
-wikipedia
+JarvisAI==0.1.8
